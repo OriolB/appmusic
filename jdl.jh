@@ -1,0 +1,8 @@
+entity Banda{
+	nombre String,
+	fechaCreacion LocalDate,
+    yearsActivos LocalDate,
+    descripcion Long,
+    estado Boolean,
+    foto ImageBlob
+}
